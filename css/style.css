@@ -175,6 +175,15 @@ h2{
   font-weight: 700;
 }
 
+  .cta:hover{
+    opacity: .9;
+  }
+
+  .cta:active,
+  .cta:focus{
+    opacity: .8;
+  }
+
 @media screen and (min-width: 768px){
   .card-split-container{
     -ms-grid-columns: (1fr);
