@@ -124,8 +124,8 @@ h2{
           white-space: pre-line;
           color: var(--light-gray);
           font-size: calc(var(--font-size) * .88);
-          line-height: calc(var(--line-height) * .91);
-          opacity: .88;
+          line-height: calc(var(--line-height) * .88);
+          opacity: .9;
         }
       
       .suscription-info{
@@ -157,7 +157,7 @@ h2{
 
         .suscription-description{
           margin-top: var(--margin);
-          opacity: .8;
+          opacity: .9;
         }
 
 .cta{
